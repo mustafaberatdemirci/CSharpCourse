@@ -1,0 +1,10 @@
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\Mustafa Berat\Desktop\Ödev-2\RecapDemo\obj\Debug\RecapDemo.pdb
