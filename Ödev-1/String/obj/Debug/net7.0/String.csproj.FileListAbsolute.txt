@@ -1,4 +1,0 @@
-C:\Users\Mustafa Berat\Desktop\CSharpCourse\String\obj\Debug\net7.0\String.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mustafa Berat\Desktop\CSharpCourse\String\obj\Debug\net7.0\String.AssemblyInfoInputs.cache
-C:\Users\Mustafa Berat\Desktop\CSharpCourse\String\obj\Debug\net7.0\String.AssemblyInfo.cs
-C:\Users\Mustafa Berat\Desktop\CSharpCourse\String\obj\Debug\net7.0\String.csproj.CoreCompileInputs.cache
